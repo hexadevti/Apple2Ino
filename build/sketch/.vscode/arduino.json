@@ -1,9 +1,0 @@
-#line 1 "C:\\Users\\luciano\\repos\\Apple2Ino\\.vscode\\arduino.json"
-{
-    "sketch": "apple2ino.ino",
-    "output": "build",
-    "configuration": "cpu=atmega2560",
-    "board": "arduino:avr:mega",
-    "port": "COM13",
-    "programmer": "avrispmkii"
-}
